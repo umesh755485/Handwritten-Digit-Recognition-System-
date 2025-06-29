@@ -1,1 +1,4 @@
-# Handwritten-Digit-Recognition-System-
+# Handwritten-Digit-Recognition-System
+
+
+ using the MNIST dataset. This project covers core ML concepts with minimal complexity, clear milestones, and reusable code.
